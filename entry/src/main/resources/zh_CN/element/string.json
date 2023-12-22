@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "mainPage_title",
+      "value": "口袋记账本"
+    },
+    {
+      "name": "edit_text",
+      "value": "编辑"
+    },
+    {
+      "name": "pay_text",
+      "value": "支出"
+    },
+    {
+      "name": "income_text",
+      "value": "收入"
+    },
+    {
+      "name": "count_text",
+      "value": "金额"
+    },
+    {
+      "name": "input_text",
+      "value": "请输入金额"
+    },
+    {
+      "name": "confirm_text",
+      "value": "确定"
+    }
+  ]
+}

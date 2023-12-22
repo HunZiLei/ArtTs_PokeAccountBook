@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/sumPage",
+    "pages/toBuyPage",
+    "pages/mePage",
+    "pages/webPage",
+    "pages/webPage_jing"
+  ]
+}

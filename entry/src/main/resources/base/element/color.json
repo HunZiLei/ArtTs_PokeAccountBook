@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "default_green",
+      "value": "#018F90"
+    },
+    {
+      "name": "default_orange",
+      "value": "#CC8C02"
+    },
+    {
+      "name": "default_blue",
+      "value": "#006090"
+    },
+    {
+      "name": "default_purple",
+      "value": "#5D0090"
+    },
+    {
+      "name": "default_red",
+      "value": "#900046"
+    },
+    {
+      "name": "spend_color",
+      "value": "#E80000"
+    },
+    {
+      "name": "income_color",
+      "value": "#01C76B"
+    }
+  ]
+}
